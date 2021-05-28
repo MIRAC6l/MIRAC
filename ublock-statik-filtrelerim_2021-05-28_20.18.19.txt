@@ -1,4 +1,3 @@
-! 2021-05-28 https://www.youtube.com
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
 www.youtube.com###section-items
 www.youtube.com##div.ytd-topbar-logo-renderer.style-scope
